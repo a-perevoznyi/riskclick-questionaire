@@ -1,4 +1,21 @@
 /**
+ * resolve-subscription-plan.ts
+ *
+ * This example shows how application business logic can consume pricing
+ * configuration without being tightly coupled to configuration storage.
+ *
+ * The main idea:
+ * - a separate service owns pricing configuration generation
+ * - the application only reads already prepared pricing data
+ * - business logic stays simple and focused
+ */
+
+import {
+  getMerchantPricing,
+  MerchantPricing,
+} from "./pricing-config";
+
+export type ResolvedSubscriptionPlan = {
   merchantId: string;
   planName: string;
   monthlyPrice: number;
