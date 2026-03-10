@@ -4,7 +4,7 @@ This package contains a ready-to-upload version of the technical assessment in M
 
 ### Files
 
-* `TECHNICAL_ASSESSMENT.md` — final answer text
+* `assesment.md` — final answer text
 * `code-snippets/pricing-config.ts` — pricing configuration loading and validation example
 * `code-snippets/resolve-subscription-plan.ts` — subscription plan resolution example
 
