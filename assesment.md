@@ -49,6 +49,7 @@ For performance, CDN delivery helped reduce latency and removed unnecessary load
 ## 4. Code Snippets
 
 The code snippets are included in this repo in code-snippets folder.
+https://github.com/a-perevoznyi/riskclick-questionaire
 
 ## 5. Note
 
