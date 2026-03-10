@@ -1,7 +1,3 @@
-# Risklick Technical Assessment Package
-
-## TECHNICAL_ASSESSMENT.md
-
 # Technical Assessment
 
 ## 1. Project Overview
